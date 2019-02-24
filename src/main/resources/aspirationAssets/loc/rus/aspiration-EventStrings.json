@@ -1,6 +1,6 @@
 {
   "aspiration:TheDarkMirror" : {
-    "NAME": "The Dark Mirror",
+    "NAME": "Тёмное Зеркало",
     "DESCRIPTIONS": [
       "The path ahead is blocked by an enormous mirror. NL Through its jagged spike-laden frame you spy no way of passage, however, the reflection contained within seems to flicker in a way that hints at its evanescent nature.",
 	  " NL NL This isn't worth your time. Or that is what you tell yourself, however in the deepest recesses of your mind, you know the #b@truth.@ ",
@@ -8,12 +8,12 @@
 	  " NL NL The mirror #r@shrieks@ as your appendage shatters it to infinitesimally small pieces. The apparition within #rstrikes #rout #rin #panger and when all is said and done, you find #ra #gcolourful #bshard in your wounds."
     ],
     "OPTIONS": [
-      "[Flee] #rBecome #rCursed #r- #rShame",
-      "[Reflect Back] #gObtain: #gApotheosis+",
-      "[Smash Mirror] #rLose #r",
-	  "[LOCKED] Requires: Prismatic Shard.",
-	  " #rHP and #rObtain: #gPrismatic #bShard.",
-	  "Continue on with your adventure."
+      "[Убежать] #rПолучить #rПроклятие #r- #rСтыд.",
+      "[Отразить] #gПолучить: #gАпофеоз+",
+      "[Разбить зеркало] #rПотерять #r",
+	  "[Закрыто] Требуется: Радужный осколок.",
+	  " #rОЗ. #rПолучить #gРадужный #bосколок.",
+	  "[Уйти]"
     ]
   },
   "aspiration:TheBirdsNest" : {
